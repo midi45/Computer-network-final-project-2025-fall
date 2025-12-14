@@ -11,6 +11,7 @@ RULE_CONFIG: Dict[str, bool] = {
     "full_width": True,
     "brackets": True,
     "quotes": True,
+    "assignment_vs_comparison": True,
     "confusable": False,
 }
 
